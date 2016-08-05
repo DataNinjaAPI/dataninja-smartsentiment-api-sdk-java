@@ -1,5 +1,5 @@
 # dataninja-smartsentiment-api-sdk-java
-The Data Ninja family of services provide content intelligence by analyzing text for natural language understanding. There are four main groups of services: Smart Content, Smart Sentiment, Smart Data, and Smart Learning. This repository pertains only to the Smart Sentiment services. For more information, please visit the Data Ninja website at http://dataninja.net.
+The Data Ninja family of services provide content intelligence by analyzing text for natural language understanding. There are four main groups of services: Smart Content, Smart Sentiment, Smart Data, and Smart Learning. This repository pertains only to the Smart Sentiment services. For more information, please visit the Data Ninja website at https://dataninja.net.
 
 This repository contains the Java implementation of Smart Sentiment Service API in an SDK. To get started, please see the Getting Started Guide.
 
